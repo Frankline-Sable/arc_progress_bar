@@ -10,7 +10,7 @@ Add this to your pubspec.yaml dependencies:
 
 ```yaml
 dependencies:
-  arc_progress_bar: ^1.0.4
+  arc_progress_bar_new: ^1.0.4
 ```
 
 ## How to use
